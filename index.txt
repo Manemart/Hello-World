@@ -1,0 +1,13 @@
+Hello everyone
+
+I am Mane Martirosyan
+I work at Instigate Mobile
+
+I live in Goris
+
+This line is here to show how merging works.
+I love my country
+
+Hi all
+
+>>>>>>> hello-world-images
